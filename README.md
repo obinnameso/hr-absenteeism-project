@@ -35,4 +35,7 @@ It was found that most people who were absent most of the times had children, an
 
 I would like to acknowledge my teammates who worked tirelessly to explore the dataset and derive insights:
 
-* 
+* Gideon Odekina
+* Ibrahim Oladimeji
+* Favour Udofia
+* Ireoluwa Ige
