@@ -15,7 +15,7 @@ We used powerBi to explore the given dataset to uncover relationships between th
 
 ## Result 
 
-After proper analysis, a dashboard was built by the team which cab be seen below: 
+After proper analysis, a dashboard was built by the team which can be seen below: 
 
 <p align = 'center'> 
 <img width='700' height='400' src = 'https://github.com/obinnameso/hr-absenteeism-project/blob/main/imgs/dashboard_image.png?raw=true'>
