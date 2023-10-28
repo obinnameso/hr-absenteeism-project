@@ -25,11 +25,10 @@ After proper analysis, a dashboard was built by the team which can be seen below
 
 It was found that most people who were absent most of the times had children, and the distance from the place of work also contributed to the increase in the number of absent staff. The social life of workers also contributed to the level of abenteeism. 
 
-* Optimize Workload Distribution During Spring.
-* Offer Support and Engagement for High Absenteeism Cases.
+* Optimize workload distribution during spring because workers tend to want to take breaks during spring.
 * Provide transport means to aid movement of workers or accomodation close to the workplace to make the workers easily available. 
-* Encourage Responsible Drinking Practices.
-* Enhance Support for Employees with Four Children, Including Childcare Options. <br> 
+* Encourage responsible drinking practices for workers that like to drink.
+* Enhance support for employees with more children. <br> 
 
 ## Acknowledgement 
 
