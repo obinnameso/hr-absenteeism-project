@@ -23,7 +23,7 @@ After proper analysis, a dashboard was built by the team which can be seen below
 
 ## Conclusion
 
-It was found that most people who were absent most of the times had children, and the distance from the place of work also contributed to the increase in the number of absent staff. The social life of workers also contributed to the level of abenteeism. 
+It was found that most people who were absent most of the times had children, and the distance from the place of work also contributed to the increase in the number of absent staff. The social life of workers also contributed to the level of abenteeism. The following recommendations were made to the company:
 
 * Optimize workload distribution during spring because workers tend to want to take breaks during spring.
 * Provide transport means to aid movement of workers or accomodation close to the workplace to make the workers easily available. 
